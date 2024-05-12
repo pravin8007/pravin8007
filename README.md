@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋, I'm Pravin Patil<br>🌱 I’m currently learning Frontend Devlopement At AccioJob
+# Hi 👋, I'm Pravin Patil
+<br>🌱 I’m currently learning Frontend Devlopement At AccioJob
 
 
 ## 🌐 Socials:
