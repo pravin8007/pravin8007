@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin Patil</h1>
-<h3 align="center">A Passionate Frontend Developer </h3>
+<h3 align="center">Frontend Developer At Vodafone Idea Limited</h3>
 
-<br>🌱 I’m currently learning Full Stack Web Development ( MERN Stack )
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pravin-patil-528922216) 
