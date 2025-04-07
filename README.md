@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin Patil</h1>
-<h3 align="center">Frontend Developer At Vodafone Idea Limited</h3>
+<h3 align="center">React Developer</h3>
 
 
 ## 🌐 Socials:
