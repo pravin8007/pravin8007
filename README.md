@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin Patil</h1>
 <h3 align="center">React Developer</h3>
+<h4 align="center">I’m a passionate Frontend Developer with strong skills in React.js. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h4>
 
 
 ## 🌐 Socials:
