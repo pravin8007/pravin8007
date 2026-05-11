@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pravin Patil</h1>
-<div display="flex" align-items="center"><h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> React Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div>
+<div display="flex" align-items="center"><h3 align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3></div>
 <h4 align="center">I’m a passionate Frontend Developer with strong skills in React.js.</h4>
 
 
